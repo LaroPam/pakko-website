@@ -1,3 +1,3 @@
 # pakko-website
 
-# [View site](https://laropam.github.io/pakko-web-site/)
+## [View website](https://laropam.github.io/pakko-web-site/)
